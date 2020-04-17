@@ -10,7 +10,6 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>Visualizing Mental Health</title>
           <link
             href="https://fonts.googleapis.com/css?family=Varela+Round"
             rel="stylesheet"

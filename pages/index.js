@@ -80,7 +80,7 @@ function Index() {
 
           <div className="row justify-content-center no-gutters">
             <div className="col-lg-6">
-              <img className="img-fluid" src="img/demo-image-02.jpg" alt="" />
+              <img className="img-fluid" src="/demo-image-02.jpg" alt="" />
             </div>
             <div className="col-lg-6 order-lg-first">
               <div className="bg-black text-center h-100 project">
